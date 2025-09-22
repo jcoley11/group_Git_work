@@ -2,8 +2,4 @@
 
 print('goodbye once and for all')
 
-print('goodbye')
-
-
-print('goodbye')
-
+print('so now I should have to do a force push')
